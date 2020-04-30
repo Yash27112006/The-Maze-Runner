@@ -1,0 +1,16 @@
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "RANCHI",
+      'continent': "AS",
+      'country': "IN",
+      'region': "JH"
+    },
+    'ip':"106.208.198.213"
+  }]);
+})
+//
+()
+
+;
